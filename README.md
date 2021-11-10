@@ -4,7 +4,9 @@ This project looked at data from InstaCart, an online grocery store. Using Pytho
 
 Busiest Hour of the Day:
 
-![prices_by_hour](https://user-images.githubusercontent.com/93872864/141035725-9bd36356-5eb0-45da-8e21-a4d1ba50ef6b.jpeg)
+![prices_by_hour](https://user-images.githubusercontent.com/93872864/141035725-9bd36356-5eb0-45da-8e21-a4d1ba50ef6b.jpeg)  
+- Sales plateu around 4-6 hours.  They start to rebound at the 7th hour, after which they fluctuate until closing.
+
 
 Busiest Day of the Week:
 

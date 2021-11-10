@@ -11,3 +11,4 @@ Busiest Hour of the Day:
 Busiest Day of the Week:
 
 ![image](https://user-images.githubusercontent.com/93872864/141036129-fb5b248c-3096-471e-a950-fe9a7190e4b9.png)
+- Friday is the busiest day for InstaCart.
